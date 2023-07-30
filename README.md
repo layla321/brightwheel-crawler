@@ -9,6 +9,10 @@ I want to add image recognition to this to be able to parse out my kids face or 
 - Install Firefox
 - Rename `sample-config.yml` to `config.yml` and fill the values
 
+## Test section
+
+here's my info
+
 ## Getting Started
 
 ```
